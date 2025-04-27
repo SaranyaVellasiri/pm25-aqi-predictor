@@ -13,6 +13,7 @@ To build a web app that takes basic weather conditions as input and predicts:
 
 ---
 
+🖼️ Project Preview
 
 | Home Page | Result Page |
 |:---------:|:-----------:|
