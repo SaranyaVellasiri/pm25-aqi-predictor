@@ -13,11 +13,12 @@ To build a web app that takes basic weather conditions as input and predicts:
 
 ---
 
-🖼️ Project Preview
+## 🖼️ Project Preview
 
 | Home Page | Result Page |
 |:---------:|:-----------:|
 | ![Home](images/home_screen.png) | ![Result](images/result_screen.png) |
+
 
 
 ## 🔢 Inputs
