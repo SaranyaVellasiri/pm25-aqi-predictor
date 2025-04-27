@@ -16,7 +16,7 @@ To build a web app that takes basic weather conditions as input and predicts:
 
 | Home Page | Result Page |
 |:---------:|:-----------:|
-| ![Home](images/homepage.png) | ![Result](images/resultpage.png) |
+| ![Home](images/home_screen.png) | ![Result](images/result_screen.png) |
 
 
 ## 🔢 Inputs
